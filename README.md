@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  A clean HTTP reverse proxy load balancer routing requests concurrently in Go.
+  name: go-load-balancer version: 1.0 type: Repository author: VarshuAi description: >   A clean HTTP reverse proxy load balancer routing requests concurrently in Go. primary_tech: Go
 primary_tech: Go
 ```
 
